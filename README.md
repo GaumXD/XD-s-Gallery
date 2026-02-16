@@ -1,2 +1,2 @@
-# XD-s-Gallery
+# XD Gallery
 Gallery of extensions for penguinmod
